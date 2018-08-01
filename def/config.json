@@ -1,0 +1,7 @@
+{ "token":"token goes here",
+  "prefix":"!",
+  "modRole":"Mods",
+  "adminRole":"Admins",
+  "welcome":"Welcome to our server <name>!",
+  "debug":"false"
+	}
